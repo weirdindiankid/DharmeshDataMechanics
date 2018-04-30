@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: DharmeshDataMechanics
-Version: 1.0.0
+Version: 1.0.1
 Summary: CS 591 L1 scripts
 Home-page: https://github.com/weirdindiankid/DharmeshDataMechanics
 Author: Dharmesh Tarapore
@@ -12,10 +12,9 @@ Project-URL: Say Thanks!, https://cs-people.bu.edu/dharmesh/
 Project-URL: Source, https://github.com/weirdindiankid/DharmeshDataMechanics/
 Description-Content-Type: UNKNOWN
 Description: UNKNOWN
-Keywords: sample setuptools development
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3
